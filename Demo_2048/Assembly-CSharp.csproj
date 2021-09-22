@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{336883B7-8AF7-A93F-B589-26670A751C09}</ProjectGuid>
+    <ProjectGuid>{482F7FF8-B317-F0D0-C927-20A5E49A06B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,34 +66,12 @@
      <Compile Include="Assets\Scripts\2048\GameInterface.cs" />
      <Compile Include="Assets\Scripts\2048\NumberSprite.cs" />
      <Compile Include="Assets\Scripts\2048\ResourceManager.cs" />
-     <Compile Include="Assets\Scripts\ComponentDemo.cs" />
-     <Compile Include="Assets\Scripts\Day02\CountDownDemo.cs" />
-     <Compile Include="Assets\Scripts\Day02\DoorDemo.cs" />
-     <Compile Include="Assets\Scripts\Day02\TimeDemo.cs" />
-     <Compile Include="Assets\Scripts\Day04\CareamZoom.cs" />
-     <Compile Include="Assets\Scripts\Day04\DoRotation.cs" />
-     <Compile Include="Assets\Scripts\Day04\Trigonometric.cs" />
-     <Compile Include="Assets\Scripts\Day04\VectorDemo.cs" />
-     <Compile Include="Assets\Scripts\Day05\DirectRotateDemo.cs" />
-     <Compile Include="Assets\Scripts\Day05\QuaternionDemo.cs" />
-     <Compile Include="Assets\Scripts\Day05\VectorAPIDemo.cs" />
-     <Compile Include="Assets\Scripts\Day06\Bullet.cs" />
-     <Compile Include="Assets\Scripts\Demo\DemoConsole.cs" />
-     <Compile Include="Assets\Scripts\Demo\Enemy.cs" />
-     <Compile Include="Assets\Scripts\Demo01.cs" />
-     <Compile Include="Assets\Scripts\GameObjectDemo.cs" />
-     <Compile Include="Assets\Scripts\Lifecycle.cs" />
-     <Compile Include="Assets\Scripts\TransformDemo.cs" />
-     <Compile Include="Assets\Scripts\UGUI01\DiagDemo.cs" />
-     <Compile Include="Assets\Scripts\UGUI01\EventDemo.cs" />
-     <Compile Include="Assets\Scripts\UGUI01\ITweenDemo.cs" />
-     <Compile Include="Assets\Scripts\UGUI01\RectTransformDemo.cs" />
      <None Include="Assets\iTweenEditor\README.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>G:/Unity/Mounth1/BaseScript/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>G:/Unity/Mounth1/UniytProject/Demo_2048/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>G:/Unity/Mounth1/BaseScript/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>G:/Unity/Mounth1/UniytProject/Demo_2048/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Install/Unity/Unity 2018.1.0b11/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
