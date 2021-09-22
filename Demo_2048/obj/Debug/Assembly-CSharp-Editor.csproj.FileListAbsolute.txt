@@ -331,7 +331,6 @@ G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\Boo.Lang.PatternMatching.
 G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\Boo.Lang.Useful.dll
 G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\Unity.CecilTools.dll
 G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\Unity.Cecil.Pdb.dll
-G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\Assembly-CSharp.pdb
 G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\UnityEngine.xml
 G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\UnityEditor.xml
 G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\UnityEngine.AIModule.xml
