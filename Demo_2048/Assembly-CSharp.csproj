@@ -67,7 +67,12 @@
     <Compile Include="Assets\Scripts\2048\core\MoveDirection.cs" />
     <Compile Include="Assets\Scripts\2048\GameController.cs" />
     <Compile Include="Assets\Scripts\2048\GameInterface.cs" />
+    <Compile Include="Assets\Scripts\2048\GameOverPanelOption.cs" />
+    <Compile Include="Assets\Scripts\2048\MenuPanelOption.cs" />
     <Compile Include="Assets\Scripts\2048\NumberSprite.cs" />
+    <Compile Include="Assets\Scripts\2048\PanelMainOption.cs" />
+    <Compile Include="Assets\Scripts\2048\PanelManager.cs" />
+    <Compile Include="Assets\Scripts\2048\RankingListPanelOption.cs" />
     <Compile Include="Assets\Scripts\2048\ResourceManager.cs" />
     <None Include="Assets\iTweenEditor\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">

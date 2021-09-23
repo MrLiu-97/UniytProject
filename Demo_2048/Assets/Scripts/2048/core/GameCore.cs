@@ -176,7 +176,7 @@ namespace Console_2048
         }
         #endregion
 
-        public int scoreCount = 0;
+        public static int scoreCount = 0;
         public int maxScore = 0;
         /// <summary>
         /// 合并元素

@@ -60,7 +60,8 @@ public class GameController : MonoBehaviour, IPointerDownHandler, IDragHandler
     // 所有要加载的 图片 必须放在 Resources 文件夹里
     // Resources.LoadAll<Sprite>("stringName");  如果里面包含多个精灵 就需要用 LoadAll 方法  单个 就用 Load 方法
 
-    public Text getText;
+    public Text getScoreText;
+    public Text getMaxScoreText;
     private void Update()
     {
         if (core.IsChangeMap)
@@ -70,7 +71,8 @@ public class GameController : MonoBehaviour, IPointerDownHandler, IDragHandler
             // 产生新的数字
             GenerateNewNumber();
             //判断游戏是否结束
-            getText.text = string.Format("分数<color=white>\n" + core.scoreCount + "</color>");
+            getScoreText.text = string.Format("分数<color=white>\n" + GameCore.scoreCount + "</color>");
+            getMaxScoreText.text = string.Format("最高分<color=white>\n" + GameCore.scoreCount + "</color>");
 
             core.IsChangeMap = false;
         }

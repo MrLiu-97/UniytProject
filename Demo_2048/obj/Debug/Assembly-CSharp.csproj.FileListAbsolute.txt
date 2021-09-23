@@ -338,3 +338,4 @@ G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\UnityEngine.GoogleAudioSp
 G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\UnityEngine.HoloLens.xml
 G:\Unity\Mounth1\UniytProject\Demo_2048\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 G:\Unity\Mounth1\UniytProject\Demo_2048\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+G:\Unity\Mounth1\UniytProject\Demo_2048\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
