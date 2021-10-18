@@ -18,7 +18,7 @@ public class PanelManager : MonoBehaviour
     /// 记录原来的位置
     /// </summary>
     public static Dictionary<string, Vector3> keyValuesPos;
-    private void Start()
+    private void Awake()
     {
         // 初始化静态字典 避免new的时候取不到值  重新加载场景也是一样
         keyValuesTF = new Dictionary<string, Transform>();
